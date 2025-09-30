@@ -164,17 +164,5 @@ k_bright_st@pusan.ac.kr
 - [31] J. H. Hong. “[Reader complaints] Prescriptions abandoned in pharmacies, personal data exposed.” Jemin Ilbo; Mar. 22, 2023 [Online]. Available: https://www.jemin.com/news/articleView.html?idxno=752278 (in Korean).
 - [32] J. H. Lee. “Ignored DUR for narcotics, 21.9 million duplicate prescriptions in 5 years.” DailyPharm; Oct. 18, 2023 [Online]. Available: https://www.dailypharm.com/Users/News/NewsView.html?ID=304930 (in Korean).
 
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/nRcUn8vA)
-
-## 3. 레파지토리 제출 
-
-- **`[주의]` 레파지토리 제출**은 해당 레파지토리의 ownership을 **학과 계정**으로 넘기는 것이므로 되돌릴 수 없습니다.
-- **레파지토리 제출** 전, 더 이상 수정 사항이 없는지 다시 한번 확인하세요.
-- github 레파지토리에서 Settings > General > Danger zone > Transfer 클릭
-  <img src="https://github.com/user-attachments/assets/cb2361d4-e07e-4b5d-9116-aa80dddd8a8b" alt="소유주 변경 경로" width="500" />
-  
-- [ Specify an organization or username ]에 'PNUCSE'를 입력하고 확인 메세지를 입력하세요.
-  <img src="https://github.com/user-attachments/assets/7c63955d-dcfe-4ac3-bdb6-7d2620575f3a" alt="소유주 변경" width="400" />
-
----
+Copyright 2025 Pilltip All Rights Reserved.
 
